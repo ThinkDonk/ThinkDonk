@@ -37,14 +37,8 @@ Everything ships with Docker Compose or zero-build static files, and runs withou
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,go,vue,fastapi,docker,linux,git,github,mysql,sqlite&perline=7" alt="tech stack" />
 </div>
 
-## GitHub stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThinkDonk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&icon_color=58A6FA&title_color=58A6FA" height="170" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkDonk&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=58A6FA" height="170" alt="top languages" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ThinkDonk&theme=github-dark&hide_border=true&ring=1D4ED8&fire=58A6FA&currStreakLabel=58A6FA" alt="contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkDonk&theme=github_dark&hide_border=true&layout=compact&langs_count=6&title_color=58A6FA" alt="most used languages" />
 </div>
 
 ---
