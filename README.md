@@ -19,6 +19,12 @@ Public projects sit on two tracks:
 
 Everything ships with Docker Compose or zero-build static files, and runs without external services.
 
+## Tech stack
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-1D4ED8?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/.NET-1D4ED8?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Java-1D4ED8?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Go-1D4ED8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Vue.js-1D4ED8?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/FastAPI-1D4ED8?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Docker-1D4ED8?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-1D4ED8?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Git-1D4ED8?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-1D4ED8?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/MySQL-1D4ED8?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-1D4ED8?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</div>
+
 ## Projects
 
 | Project | What it does |
@@ -30,12 +36,6 @@ Everything ships with Docker Compose or zero-build static files, and runs withou
 | [**vscode-opencode-v2**](https://github.com/ThinkDonk/vscode-opencode-v2) | VS Code extension that runs the opencode v2 TUI in an integrated terminal. |
 | [**github-landscape**](https://github.com/ThinkDonk/github-landscape) | Codex skill for evidence-based GitHub project research: compare features, maintenance status, and proven limitations. |
 | [**llm-safe-write**](https://github.com/ThinkDonk/llm-safe-write) | Skill for reliably writing large or CJK files in AI coding environments — skeleton + Edit strategy to avoid Write-tool truncation. |
-
-## Tech stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,go,vue,fastapi,docker,linux,git,github,mysql,sqlite&perline=7" alt="tech stack" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkDonk&theme=github_dark&hide_border=true&layout=compact&langs_count=6&title_color=58A6FA" alt="most used languages" />
