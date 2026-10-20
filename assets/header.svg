@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title desc">
+  <title id="title">ThinkDonk</title>
+  <desc id="desc">A terminal-style header. OpenCode plugins, MCP tools and skills.</desc>
+  <style>
+    text { font-family: ui-monospace, "Cascadia Code", "SFMono-Regular", Consolas, monospace; }
+    .cursor { animation: blink 1s step-end 4; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="959" height="199" rx="10" fill="#0f1724" stroke="#2b3c51" />
+  <path d="M1 39.5H959" stroke="#2b3c51" />
+  <g fill="#5d7894">
+    <circle cx="22" cy="20" r="4" />
+    <circle cx="37" cy="20" r="4" />
+    <circle cx="52" cy="20" r="4" />
+  </g>
+  <text x="76" y="25" fill="#a4b8cc" font-size="14">thinkdonk@github:~</text>
+  <text x="32" y="118" fill="#65d6ce" font-size="32">&gt;</text>
+  <text x="70" y="120" fill="#edf4fc" font-size="54" font-weight="600" letter-spacing="-1">ThinkDonk</text>
+  <rect class="cursor" x="367" y="80" width="13" height="46" rx="1" fill="#65d6ce" />
+  <text x="32" y="165" fill="#a4b8cc" font-size="21">OpenCode plugins · MCP tools · Skills</text>
+</svg>
